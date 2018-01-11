@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--图片的可选频道-->
+    <string-array name="photos_channel_name">
+        <item>Beauty</item>
+        <item>Welfare</item>
+        <item>Life</item>
+    </string-array>
+    <string-array name="photos_channel_id">
+        <item>T1348647909107</item>
+        <item>T1348649580692</item>
+        <item>T1348648756099</item>
+    </string-array>
+</resources>

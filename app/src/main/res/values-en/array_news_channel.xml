@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--新闻的可选频道-->
+    <string-array name="news_channel_name">
+
+        <!--定死不能更改的三个频道-->
+        <item>Headlines</item>
+        <item>Technology</item>
+        <item>Finance</item>
+
+        <item>Military</item>
+        <item>Physical</item>
+        <!--<item>北京</item>-->
+        <item>Property</item>
+        <item>Football</item>
+        <item>Entertainment</item>
+        <item>Film</item>
+        <item>Automobile</item>
+        <item>Joke</item>
+        <item>Game</item>
+        <item>Fashion</item>
+        <item>Emotion</item>
+        <item>Featured</item>
+        <item>Radio</item>
+        <item>NBA</item>
+        <item>Digital</item>
+        <item>Mobile</item>
+        <item>Lottery</item>
+        <item>Education</item>
+        <item>Forum</item>
+        <item>Tourism</item>
+        <item>MobilePhone</item>
+        <item>Blog</item>
+        <item>Society</item>
+        <item>Home</item>
+        <item>Blizzard</item>
+        <item>Parenting</item>
+        <item>CBA</item>
+        <item>Message</item>
+    </string-array>
+
+    <string-array name="news_channel_id">
+
+        <!--定死不能更改的三个频道ID-->
+        <item>T1348647909107</item>
+        <item>T1348649580692</item>
+        <item>T1348648756099</item>
+
+        <item>T1348648141035</item>
+        <item>T1348649079062</item>
+        <!--<item>5YyX5Lqs</item>-->
+        <item>5YyX5Lqs</item>
+        <item>T1399700447917</item>
+        <item>T1348648517839</item>
+        <item>T1348648650048</item>
+        <item>T1348654060988</item>
+        <item>T1350383429665</item>
+        <item>T1348654151579</item>
+        <item>T1348650593803</item>
+        <item>T1348650839000</item>
+        <item>T1370583240249</item>
+        <item>T1379038288239</item>
+        <item>T1348649145984</item>
+        <item>T1348649776727</item>
+        <item>T1351233117091</item>
+        <item>T1356600029035</item>
+        <item>T1348654225495</item>
+        <item>T1349837670307</item>
+        <item>T1348654204705</item>
+        <item>T1348649654285</item>
+        <item>T1349837698345</item>
+        <item>T1348648037603</item>
+        <item>T1348654105308</item>
+        <item>T1397016069906</item>
+        <item>T1397116135282</item>
+        <item>T1348649475931</item>
+        <item>T1371543208049</item>
+    </string-array>
+</resources>

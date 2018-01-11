@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="baidumapapi_radar_v4_1_1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/libs/baidumapapi_radar_v4_1_1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

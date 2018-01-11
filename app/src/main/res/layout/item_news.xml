@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/card_view"
+    style="@style/news_summary_card_view"
+    android:layout_gravity="center">
+
+    <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <ImageView
+            android:id="@+id/news_summary_photo_iv"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:layout_centerVertical="true"
+            android:layout_margin="4dp"
+            android:scaleType="centerCrop"
+            android:transitionName="@string/transition_photos"
+            tools:src="@mipmap/1"
+            tools:targetApi="lollipop" />
+
+        <TextView
+            android:id="@+id/news_summary_title_tv"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:layout_toRightOf="@+id/news_summary_photo_iv"
+            android:lines="2"
+            android:textSize="@dimen/medium"
+            tools:text="习近平:吹响建设科技强国号角国号角国号角" />
+
+        <TextView
+            android:id="@+id/news_summary_digest_tv"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/news_summary_title_tv"
+            android:layout_centerVertical="true"
+            android:layout_toRightOf="@+id/news_summary_photo_iv"
+            android:ellipsize="end"
+            android:singleLine="true"
+            android:textAppearance="@style/TextAppearance.AppCompat.Small"
+            android:textSize="@dimen/small"
+            tools:text="科技是国之利器，中国人民生活要好，必须有强大科技。" />
+
+        <TextView
+            android:id="@+id/news_summary_ptime_tv"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentRight="true"
+            android:layout_marginBottom="4dp"
+            android:layout_marginRight="@dimen/item_margin"
+            android:textSize="@dimen/micro"
+            tools:text="05-28 20:09" />
+
+    </RelativeLayout>
+
+</android.support.v7.widget.CardView>

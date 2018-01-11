@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="bookmarks_channel_name">
+        <item>新闻</item>
+        <item>图片</item>
+        <item>视频</item>
+    </string-array>
+    <string-array name="bookmarks_channel_id">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+    <string-array name="bookmarks_channel_type">
+        <item>news</item>
+        <item>photo</item>
+        <item>video</item>
+    </string-array>
+</resources>

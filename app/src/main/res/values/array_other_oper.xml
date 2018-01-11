@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="other_oper_id">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+    </string-array>
+    <string-array name="other_oper_name">
+        <item>@string/weather</item>
+        <item>@string/phone_attr</item>
+        <item>@string/zip_code</item>
+        <item>@string/recipe</item>
+        <item>@string/base_station_location</item>
+        <item>@string/id_card_inquiries</item>
+        <item>@string/the_question_bank</item>
+        <item>@string/train_ticket_inquiries</item>
+        <item>@string/football_five_league</item>
+        <item>@string/zg_solution_dream</item>
+    </string-array>
+    <integer-array name="other_oper_icon">
+        <item>@drawable/ic_weather</item>
+        <item>@drawable/ic_phone_attr</item>
+        <item>@drawable/ic_zip_code</item>
+        <item>@drawable/ic_recipe</item>
+        <item>@drawable/ic_base_station_location</item>
+        <item>@drawable/ic_id_card_inquiries</item>
+        <item>@drawable/ic_the_question_bank</item>
+        <item>@drawable/ic_train_ticket_inquiries</item>
+        <item>@drawable/ic_football_five_league</item>
+        <item>@drawable/ic_gong</item>
+    </integer-array>
+</resources>
