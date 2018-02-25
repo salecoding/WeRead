@@ -1,9 +1,5 @@
-<img src="app/src/main/res/mipmap-xhdpi/we_read" align="left" hspace="1" vspace="1">
-
-
 # WeRead
-This is an Android project. WeRead is a Android client of content collection , base on Material Design + MVP + RxJava + Retrofit.You can read something interesting about news,picture,video here. </br>
-</br></br>
+This is an Android project. WeRead is a Android client of content collection , base on Material Design + MVP + RxJava + Retrofit.You can read something interesting about news,picture,video here. 
 
 ## SnapShot
 <img src="screenshots/Screenshot_2018-02-25-13-39-17-648_cn.read.png" width="300px"/>
