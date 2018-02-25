@@ -40,4 +40,4 @@ Thanks to these projects and libraries:
 
 - [Material icons](https://design.google.com/icons/)
 
-[Coding](https://coding.net/u/salecoding/p/WeRead/git)
+[Coding](https://coding.net/u/salecoding/p/WeRead/git) 欢迎S
