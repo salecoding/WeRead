@@ -1,6 +1,9 @@
 # WeRead
 This is an Android project. WeRead is a Android client of content collection , base on Material Design + MVP + RxJava + Retrofit.You can read something interesting about news,picture,video here. 
 
+# APK
+[app-release.apk](https://raw.githubusercontent.com/salecoding/WeRead/master/app/app-release.apk)
+
 ## SnapShot
 <img src="screenshots/Screenshot_2018-02-25-13-39-17-648_cn.read.png" width="300px"/>
 <img src="screenshots/Screenshot_2018-02-25-13-40-38-597_cn.read.png" width="300px"/>
